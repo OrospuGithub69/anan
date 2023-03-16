@@ -1,0 +1,27 @@
+/**
+ * @name gutz berserk
+ * @author Systemd
+ * @version auto updates
+ * @description Theme was created in generator https://vsthemes.org/generator/
+ * @source https://vsthemes.org/en/skins/discord/35054-gutz-berserk.html
+ * @authorLink https://vsthemes.org/user/Systemd/
+ * @authorId 2
+*/
+@import url(https://vsthemes.org/uploads/generator/client/BasicBackground.css);
+:root {
+    --transparencycolor: 56,56,56;
+    --transparencyalpha: 0.15;
+    --messagetransparency: 0.6;
+    --guildchanneltransparency: 0.35;
+    --memberlistransparency: 0.1;
+    --accentcolor: 82,82,82;
+    --background: url("https://vsthemes.org/uploads/posts/2021-07/1625158395_4517910-kentaro-miura-berserk-anime-night-sky-moon-moonlight-guts.webp");
+    --backdrop: rgba(0,0,0,0.2);
+    --backgroundblur: 0px;
+    --popoutblur: 0px;
+    --backdropblur: 0px;
+    --version1_0_5:none;
+    --backgroundsize: cover;
+    --popoutsize: cover;
+    --backdropsize: cover;
+}
